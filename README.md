@@ -15,6 +15,7 @@ Social engineering frauds involving fake accounts impersonating prominent indivi
   • Provide real-time monitoring to prevent financial scams.
 
 ## Proposed Execution Plan
+![Modern Pastel Flowchart](https://github.com/user-attachments/assets/f95815d5-a4ed-49c0-b441-7a67a3c12a2e)
 
 ### 1. Research & Data Collection
 
