@@ -6,83 +6,83 @@ Social engineering frauds involving fake accounts impersonating prominent indivi
 
 ## Objectives
 
-• Develop an AI-driven system to detect fraudulent messaging activity.
+  • Develop an AI-driven system to detect fraudulent messaging activity.
 
-• Implement machine learning techniques for behavioral anomaly detection.
+  • Implement machine learning techniques for behavioral anomaly detection.
 
-• Enhance social media security by reducing the spread of fraudulent accounts.
+  • Enhance social media security by reducing the spread of fraudulent accounts.
 
-• Provide real-time monitoring to prevent financial scams.
+  • Provide real-time monitoring to prevent financial scams.
 
 ## Proposed Execution Plan
 
 ### 1. Research & Data Collection
 
-• Gather datasets containing legitimate and fraudulent messages.
+  • Gather datasets containing legitimate and fraudulent messages.
 
-• Analyze existing social engineering fraud techniques.
+  • Analyze existing social engineering fraud techniques.
 
-• Identify key behavioral features that differentiate fake and real accounts.
+  • Identify key behavioral features that differentiate fake and real accounts.
 
 ### 2. Feature Engineering & Model Selection
 
-• Extract text-based and behavioral features (message frequency, sentiment analysis, account age, etc.).
+  • Extract text-based and behavioral features (message frequency, sentiment analysis, account age, etc.).
 
-• Utilize NLP techniques for spam detection.
+  • Utilize NLP techniques for spam detection.
 
-• Experiment with various ML models such as:
+  • Experiment with various ML models such as:
 
-• Anomaly Detection Models: Isolation Forest, One-Class SVM
+  • Anomaly Detection Models: Isolation Forest, One-Class SVM
 
-• Deep Learning Approaches: LSTMs, Transformer-based models
+  • Deep Learning Approaches: LSTMs, Transformer-based models
 
 ### 3. Model Development & Training
 
-• Preprocess data (tokenization, stopword removal, embedding generation).
+  • Preprocess data (tokenization, stopword removal, embedding generation).
 
-• Train models using labeled data to classify messages as legitimate or fraudulent.
+  • Train models using labeled data to classify messages as legitimate or fraudulent.
 
-• Evaluate performance metrics (precision, recall, F1-score).
+  • Evaluate performance metrics (precision, recall, F1-score).
 
 ### 4. System Development
 
-• Build an API using Flask/FastAPI for real-time message scanning.
+  • Build an API using Flask/FastAPI for real-time message scanning.
 
-• Store behavioral data in MongoDB/PostgreSQL for continuous monitoring.
+  • Store behavioral data in MongoDB/PostgreSQL for continuous monitoring.
 
-• Develop an admin dashboard for manual review of flagged accounts.
+  • Develop an admin dashboard for manual review of flagged accounts.
 
 ### 5. Deployment & Testing
 
-• Test the system with real-world social media interactions.
+  • Test the system with real-world social media interactions.
 
-• Deploy on cloud services for scalability.
+  • Deploy on cloud services for scalability.
 
-• Implement user feedback mechanisms to improve detection accuracy.
+  • Implement user feedback mechanisms to improve detection accuracy.
 
 ### 6. Future Enhancements
 
-• Integration with social media platforms via APIs.
+  • Integration with social media platforms via APIs.
 
-• Implement reinforcement learning for adaptive fraud detection.
+  • Implement reinforcement learning for adaptive fraud detection.
 
-• Use blockchain for secure identity verification.
+  • Use blockchain for secure identity verification.
 
 ## Expected Outcomes
 
-• A robust AI-driven system capable of identifying fraudulent messaging patterns.
+  • A robust AI-driven system capable of identifying fraudulent messaging patterns.
 
-• A scalable solution for social media firms to reduce social engineering fraud.
+  • A scalable solution for social media firms to reduce social engineering fraud.
 
-• Improved cybersecurity measures to protect users from financial scams.
+  • Improved cybersecurity measures to protect users from financial scams.
 
 ## Contribution Guidelines
 
-• Open for research collaborations and AI model improvements.
+  • Open for research collaborations and AI model improvements.
 
-• Contributions should follow ethical AI and data privacy guidelines.
+  • Contributions should follow ethical AI and data privacy guidelines.
 
-• Open-source participation is encouraged via GitHub pull requests.
+  • Open-source participation is encouraged via GitHub pull requests.
 
 ## License
 
